@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'myapp',
-    'django_unused_media',
+    #'django_unused_media',
 ]
 
 MIDDLEWARE = [
